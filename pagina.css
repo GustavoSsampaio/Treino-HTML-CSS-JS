@@ -3,20 +3,58 @@
     margin: 0px;
     font-family: Century Gothic Std,arial,sans-serif;
 }
-h1{
-    text-align: center;
-    margin-top: 20px;
-}
 ul{
     display:flex;
     margin-left: 15px;
     
 }
+body{
+    background-color: black;
+}
+header{
+    background-color: antiquewhite;
+    height: 150px;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+}
 .login{
     margin-right: 20px;
+    
     text-align: right;
 }
 .options{
     margin-left: 20px;
+    
     text-align: left;
+}
+section{
+    color: aliceblue;
+    background-color: teal;
+    width: 600px;
+    height: 600px;
+    margin: 20px;
+    margin-left: 400px;
+}
+h2{
+    text-align: center;
+}
+.dados{
+    text-align: center;
+    margin: 0px;
+}
+.dados,p{
+    margin: 20px;
+}
+footer{
+    background-color: rgb(44, 44, 44);
+    height: 150px;
+    color: aliceblue;
+}
+footer,ul{
+    display: flex;
+    height: 100px;
+    
 }
