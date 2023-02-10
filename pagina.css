@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Century Gothic Std,arial,sans-serif;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+ul{
+    display:flex;
+    margin-left: 15px;
+    
+}
+.login{
+    margin-right: 20px;
+    text-align: right;
+}
+.options{
+    margin-left: 20px;
+    text-align: left;
+}
